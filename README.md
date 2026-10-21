@@ -6,7 +6,6 @@
 **Indore, Madhya Pradesh, India**
 
 [![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Interactive_3D-ff9d4d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/)
-[![3D Office Tour](https://img.shields.io/badge/🏢_3D_Virtual_Office-Explore_Now-ff6a00?style=for-the-badge&logo=unity&logoColor=white)](https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/isometric-office.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-singh-sadudia-45637627b)
 [![Email](https://img.shields.io/badge/Email-mayanksadudia%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayanksadudia@gmail.com)
 
@@ -31,10 +30,7 @@
   <a href="https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/">
     <img src="https://img.shields.io/badge/🚀_LAUNCH_LIVE_PORTFOLIO-ff9d4d?style=for-the-badge&logoColor=black" alt="Launch Live Portfolio" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/isometric-office.html">
-    <img src="https://img.shields.io/badge/🏢_ENTER_3D_VIRTUAL_OFFICE-24292e?style=for-the-badge&logoColor=white" alt="Enter 3D Virtual Office" />
-  </a>
+  
 </p>
 
 </div>
@@ -45,7 +41,7 @@
 
 I am a multidisciplinary professional bridging the gap between **analytical data intelligence** and **immersive visual design**. With hands-on experience spanning Python ETL pipelines, SQL relational modeling, BI dashboards, Adobe Creative Cloud, and Generative AI workflows, I transform complex data into compelling digital stories and interactive user experiences.
 
-- 🔭 **Currently Building**: Interactive 3D data visualizations and isometric enterprise web environments.
+- 🔭 **Currently Building**: Interactive 3D data visualizations and interactive data web environments.
 - 🎯 **Core Competencies**: Exploratory Data Analysis (EDA), Statistical Modeling, Brand Identity Architecture, UI/UX, GenAI Asset Pipelines.
 - 💬 **Ask me about**: Python for Analytics, SQL query optimization, 3D web interfaces, and creative direction.
 - 📫 **Reach me at**: [mayanksadudia@gmail.com](mailto:mayanksadudia@gmail.com) | [+91 7977519636](tel:+917977519636)
@@ -95,7 +91,6 @@ I am a multidisciplinary professional bridging the gap between **analytical data
 
 | Project | Domain | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **🏢 3D Isometric Virtual Office** | 3D Web & Interactive AI | HTML5 Canvas, CSS 3D Transforms, Vanilla JS | [Live Office](https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/isometric-office.html) &bull; [Repo](https://github.com/Mayanksinghsadudia/mayanksinghsadudiaportfolio) |
 | **🛍️ Amazon Review Sentiment Analysis** | NLP & Text Analytics | Python, VADER Sentiment, Pandas, Chart.js | [Live Demo](https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/amazon-sentiment-analysis.html) &bull; [Repo](https://github.com/Mayanksinghsadudia/amazon-review-system) |
 | **📈 Online Retail Sales Study (541k rows)** | Quantitative Business Analytics | Python, SQL, RFM Segmentation, Seaborn | [Case Study](https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/retail-analysis.html) &bull; [Repo](https://github.com/Mayanksinghsadudia/retail-sales-analysis) |
 | **🗃️ Customer Management System (CMS)** | Database Architecture & CRUD | SQLite, Python, KPIs, Automation Scripts | [Architecture](https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/cms-analysis.html) &bull; [Repo](https://github.com/Mayanksinghsadudia/customer-management-system) |
